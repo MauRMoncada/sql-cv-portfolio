@@ -47,7 +47,7 @@ VALUES (1, 'UCV', 'Economista', '5to semestre', 2024, 2029);
 
 -- Insertar Certificación vinculada a id_persona = 1
 INSERT INTO certificaciones (id_persona, institucion, certificacion, fecha_obtencion, documento_url)
-VALUES (1, 'IDEPROCOP', 'Contabilidad nivel intermedio', '2026-10-17', 'https://github.com/MauRMoncada/portfolio/blob/main/assets/certificados/ideprocop_contabilidad.pdf');
+VALUES (1, 'IDEPROCOP', 'Contabilidad nivel intermedio', '2026-10-17', 'https://github.com/MauRMoncada/sql-cv-portfolio/blob/e3ba6ec4ffb2bc8046843bd728b86b1926b65f69/assets/certificados/Contabilidad_Intermedia_IDEPROCOP_MauricioM.pdf');
 
 
 -- Consulta de prueba 
